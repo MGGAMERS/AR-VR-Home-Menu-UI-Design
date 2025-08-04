@@ -10,12 +10,21 @@ The design reflects **modern aesthetics**, clean structure, and smooth functiona
 
 ## 🌟 Key Features
 
-- Spatial interaction support
-- Futuristic and immersive design
-- Easy and intuitive navigation
-- Accessibility-focused UI structure
+- Spatial interaction support  
+- Futuristic and immersive design  
+- Easy and intuitive navigation  
+- Accessibility-focused UI structure  
 
-#Home Page
-  <img src="Home Page.png" alt="Screenshot 1" width="45%" />
-#Components
-  <img src="Components.png" alt="Screenshot 2" width="45%" />
+---
+
+## 📱 Home Page
+
+<p align="center">
+  <img src="Home Page.png" alt="Screenshot 1" width="60%" />
+</p>
+
+## 🧩 Components
+
+<p align="center">
+  <img src="Components.png" alt="Screenshot 2" width="60%" />
+</p>
